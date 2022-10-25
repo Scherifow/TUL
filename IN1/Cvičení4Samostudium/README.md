@@ -4,9 +4,13 @@ Pro splnění úkolů budete možná muset použít trochu vaši kreativitu a d�
 
 **Úkol 1:**
 Vytvořte si nadpis pro tři úrovně.
+
 1
+
 1.1
+
 1.1.1
+
 [Jak vytvořit číslované nadpisy pro více úrovní?](https://www.youtube.com/watch?v=AG_OBv8MYq8)
 
 **Úkol 2:**
