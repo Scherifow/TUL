@@ -24,5 +24,8 @@ Vložte do wordu třeba 2 obrázky a vygenerujte automaticky seznam obrázků.
 
 
 **Úkol 4:** 
-[Upravte styl normální na font times new roman, velikost 12 a velikost řádku 1.5](https://www.youtube.com/watch?v=UOVU6qQ2iOM
+[Upravte styl normální](https://www.youtube.com/watch?v=UOVU6qQ2iOM
 )
+- na font times new roman,
+- velikost 12,
+- a velikost řádku 1.5
