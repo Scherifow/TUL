@@ -1,3 +1,5 @@
+# Výuka 26.10 - Samostudium
+
 Pro splnění úkolů budete možná muset použít trochu vaši kreativitu a důmysl jak videa aplikovat na váš problém. Nicméně videa jsou dost návodná a měli by vám hodně pomoc. Popřípadě pokud se vám videa nelibí, klidně zkuste vyhledat jiný návod, který vám pomůže vyřešit problém/zadání/úkol.
 
 **Úkol 1:**
