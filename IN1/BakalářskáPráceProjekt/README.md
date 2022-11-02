@@ -13,7 +13,7 @@ Vytvořte falešnou rádoby bakalářskou práci, text použijte z pdf a snažte
 - Přidané citace a musí být živé (funkční odkaz) - nejen jako text, takže nejspíš si je ručně přidejte do citačního manageru.
 - Na konci doplnit bibliografickou citaci
 - Řádkování 1.5, Times new roman, velikost 12.
-- Kraje 3cm u vazby jinak 2.5cm
+- Kraje 3cm u vazby, zbylé okraje 2.5cm
 - Nadpis první úrovně má velikost 16 tučně, druhé úrovně 14 tučně a třetí úrověn má velikost 12 tučně.
 
 Hotové a vypracované zašlete hotový word dokument (.docx) na petr.prucha@tul.cz
