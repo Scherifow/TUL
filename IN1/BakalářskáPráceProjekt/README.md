@@ -16,7 +16,7 @@ Vytvořte falešnou rádoby bakalářskou práci, text použijte z pdf a snažte
 - Kraje 3cm u vazby, zbylé okraje 2.5cm
 - Nadpis první úrovně má velikost 16 tučně, druhé úrovně 14 tučně a třetí úrověn má velikost 12 tučně.
 
-Hotové a vypracované zašlete hotový word dokument (.docx) na petr.prucha@tul.cz
+Hotové a vypracované zašlete hotový word dokument (.docx) s názvem vaše (Jméno_Příjmený.docx) na petr.prucha@tul.cz
 
 Datum odevzdání do: 13.11. do 23:59h
 
