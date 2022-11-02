@@ -14,3 +14,8 @@ Vytvořte falešnou rádoby bakalářskou práci, text použijte z pdf a snažte
 - Na konci doplnit bibliografickou citaci
 - Řádkování 1.5, Times new roman, velikost 12.
 - Kraje 3cm vazby jinak 2.5cm (takže se střídá sudá lichá strana 3cm)
+
+Hotové a vypracované zašlete hotový word dokument (.docx) na petr.prucha@tul.cz
+Datum odevzdání do: 13.11. do 23:59h
+Trvání: 2 cvičení
+
