@@ -1,11 +1,11 @@
 # Výuka IN1 - Zadání práce
 
-Vytvořte falešnou rádoby bakalářskou práci, text použijte z pdf a snažte se z we wordu co nejvíce přiblížit zadání z pdf.
+Vytvořte falešnou rádoby bakalářskou práci, text použijte z pdf a snažte se ve wordu co nejvíce přiblížit zadání z pdf.
 
 
 - Odstraňte všechny 2jté a 3jté, 4té, nté mezery
 - Číslování stran - až u obsahu str. 11 začínají číslice
-- Číslované nadpisy - musí fungovat automaticky když chci přidat další (styly)
+- Číslované nadpisy - musí fungovat automaticky když chci přidat další - (styly)
 - Přidané obrázky a tabulky v textu s popisem a zdrojem
 - Automaticky vygenerovaný obsah
 - Automaticky vygenerovaný seznam tabulek
