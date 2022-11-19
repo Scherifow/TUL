@@ -1,3 +1,4 @@
+
 # Výuka IN1 - Zadání práce
 
 Vytvořte falešnou rádoby bakalářskou práci, text použijte z pdf a snažte se ve wordu co nejvíce přiblížit zadání z pdf.
@@ -10,7 +11,7 @@ Vytvořte falešnou rádoby bakalářskou práci, text použijte z pdf a snažte
 - Automaticky vygenerovaný obsah (1b)
 - Automaticky vygenerovaný seznam tabulek (1b)
 - Automaticky vygenerovaný seznam obrázků (1b)
-- Přidané citace a musí být živé (funkční odkaz) - nejen jako text, takže nejspíš si je ručně přidejte do citačního manageru. (2b)
+- Přidané citace a musí být živé (funkční odkaz) - nejen jako text, takže nejspíš si je ručně přidejte do citačního manageru. (3b)
 - Na konci doplnit bibliografickou citaci (1b)
 - Řádkování 1.5, Times new roman, velikost 12. (1b)
 - Kraje 3cm u vazby, zbylé okraje 2.5cm (1b)
